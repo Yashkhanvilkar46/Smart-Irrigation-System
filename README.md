@@ -98,7 +98,7 @@ smart-irrigation-system/
 
 ## 📄 Full Report
 
-See [`docs/Smart_Irrigation_Report.pdf`](./docs/Smart_Irrigation_Report.pdf) for complete literature survey, methodology, and datasheets.
+See [`docs/Smart_Irrigation_Report.pdf`](https://github.com/Yashkhanvilkar46/Smart-Irrigation-System/blob/main/Smart_Irrigation_Report.pdf) for complete literature survey, methodology, and datasheets.
 
 ## 🚀 Future Scope
 
